@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "=== BIODATA DIRI ===" << endl;
+    cout << "Nama       : Marsya Almasyah" << endl;
+    cout << "Umur       : 16 tahun" << endl;
+    cout << "Jenis Kelamin : Perempuan" << endl;
+    cout << "Sekolah    : SMK Negeri 2 Soreang" << endl;
+    cout << "Jurusan    : Teknik Elektro" << endl;
+    cout << "Hobi       : Menulis" << endl;
+    return 0;
+}
