@@ -8,6 +8,6 @@ int main() {
     cout << "Jenis Kelamin : Perempuan" << endl;
     cout << "Sekolah    : SMK Negeri 1 Soreang" << endl;
     cout << "Jurusan    : Teknik Elektro" << endl;
-    cout << "Hobi       : Menulis" << endl;
+    cout << "Hobi       : Menonton filem, Bermain bola voli" << endl;
     return 0;
 }
